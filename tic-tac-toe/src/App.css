@@ -1,0 +1,16 @@
+.grid-container {
+  display: grid;
+  height: 20vh;
+  width: 20vw;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+.square{
+  background: #fff;
+}
+.main-container{
+  display: flex;
+}
+.history{
+  
+}
